@@ -67,7 +67,7 @@ body{
     color: #FFFFFF;
     display: flex;
     align-items: center;
-    margin-bottom: 11%;
+    margin-bottom: 7%;
 }
 
 .menu_titulo{
@@ -100,7 +100,7 @@ body{
 .icone_seta{
     display: flex;
     justify-content:center ;
-    margin-bottom: 20px;
+    margin-bottom: 17px;
     cursor: pointer;
 
 }
